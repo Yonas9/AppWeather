@@ -1,7 +1,3 @@
-import  users,{ addTitle,premiumUsers }from './dom'
+import  './dom'
 
 
-console.log('indexFile')
-console.log(users)
-addTitle('Hello Index')
-console.log(premiumUsers(users))
